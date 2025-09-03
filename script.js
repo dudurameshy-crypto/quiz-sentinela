@@ -1,23 +1,23 @@
-// Quiz baseado no artigo "Sentinela 7-9.docx"
+// Quiz - Sentinela 7-9 (23 perguntas com alternativas mais desafiadoras)
 
 const artigoQuiz = [
   {
     pergunta: "1. Que capacidade Jeová nos deu, e por quê?",
     alternativas: [
       "A capacidade de pensar, aprender e aplicar o conhecimento, para que possamos achar o conhecimento de Deus e servi-lo.",
-      "O poder de prever o futuro e saber quando o fim virá.",
-      "O dom de riquezas materiais para garantir prosperidade.",
-      "A habilidade de dominar outras nações pela força."
+      "A capacidade de compreender apenas profecias, sem aplicar no dia a dia.",
+      "O dom de discernimento para julgar todas as pessoas infalivelmente.",
+      "A habilidade de adquirir sabedoria humana suficiente para governar sem depender de Jeová."
     ],
     correta: "A capacidade de pensar, aprender e aplicar o conhecimento, para que possamos achar o conhecimento de Deus e servi-lo."
   },
   {
-    pergunta: "2. (a) Que fato precisamos entender? (Jó 37:23, 24) (b) Por que isso é bom para nós?",
+    pergunta: "2. Que fato precisamos entender, e por que isso é bom para nós? (Jó 37:23, 24)",
     alternativas: [
       "Que há muitas coisas que não sabemos; isso nos torna humildes e nos ajuda a confiar em Jeová.",
-      "Que devemos saber tudo para agradar a Jeová.",
-      "Que a ciência tem todas as respostas e substitui a fé.",
-      "Que não precisamos estudar a Bíblia, porque já sabemos tudo."
+      "Que todo conhecimento espiritual depende unicamente da tradição dos anciãos.",
+      "Que podemos prever o futuro se estudarmos suficientemente as Escrituras.",
+      "Que só é possível confiar em Jeová quando entendemos completamente seus caminhos."
     ],
     correta: "Que há muitas coisas que não sabemos; isso nos torna humildes e nos ajuda a confiar em Jeová."
   },
@@ -25,9 +25,9 @@ const artigoQuiz = [
     pergunta: "3. O que vamos ver neste estudo?",
     alternativas: [
       "Coisas que não sabemos, os desafios por isso e por que às vezes é bom não saber tudo; isso fortalece nossa confiança em Jeová.",
-      "A história completa do mundo desde a criação até hoje.",
-      "Um resumo de todos os profetas menores.",
-      "Como ganhar riquezas materiais seguindo a Bíblia."
+      "Como calcular cronogramas exatos para o Armagedom.",
+      "Uma lista de todos os segredos ocultos que só os ungidos conhecem.",
+      "O modo como Jeová revelou datas específicas aos profetas modernos."
     ],
     correta: "Coisas que não sabemos, os desafios por isso e por que às vezes é bom não saber tudo; isso fortalece nossa confiança em Jeová."
   },
@@ -35,9 +35,9 @@ const artigoQuiz = [
     pergunta: "4. De acordo com Mateus 24:36, qual é uma das coisas que nós não sabemos?",
     alternativas: [
       "Quando o fim deste sistema de coisas vai chegar.",
-      "O número exato de pessoas que vão aceitar a mensagem.",
-      "Quanto ouro a Terra possui.",
-      "Quem será o próximo líder político mundial."
+      "O momento exato em que todos os mortos serão ressuscitados.",
+      "O ano em que a grande tribulação começará e terminará.",
+      "A ordem em que cada nação será julgada durante o Armagedom."
     ],
     correta: "Quando o fim deste sistema de coisas vai chegar."
   },
@@ -45,9 +45,9 @@ const artigoQuiz = [
     pergunta: "5. Já que não sabemos a data do fim, como isso pode nos afetar?",
     alternativas: [
       "Podemos ficar impacientes, desanimados ou ser alvo de ridicularização por parte de outros.",
-      "Ficar imediatamente ricos sem trabalhar.",
-      "Ter certeza de dominar o mundo antes do fim.",
-      "Garantir fama e reconhecimento público."
+      "Podemos concluir que não precisamos mais pregar até que a data seja revelada.",
+      "Podemos acreditar que Jeová esqueceu sua promessa e abandonou a Terra.",
+      "Podemos pensar que temos liberdade para viver sem padrões morais até o último momento."
     ],
     correta: "Podemos ficar impacientes, desanimados ou ser alvo de ridicularização por parte de outros."
   },
@@ -55,29 +55,29 @@ const artigoQuiz = [
     pergunta: "6. Por que é bom não saber quando o fim virá?",
     alternativas: [
       "Porque isso prova que servimos a Jeová por amor e não por um prazo; fortalece nossa fé e confiança nele.",
-      "Porque assim podemos adiar toda obra espiritual.",
-      "Porque impede que alguém pregue a mensagem.",
-      "Porque nos permite controlar os outros."
+      "Porque assim cada pessoa pode definir seu próprio caminho independente de Jeová.",
+      "Porque nos dá autoridade para fixar datas alternativas de julgamento.",
+      "Porque elimina a necessidade de vigilância constante no serviço a Deus."
     ],
     correta: "Porque isso prova que servimos a Jeová por amor e não por um prazo; fortalece nossa fé e confiança nele."
   },
   {
     pergunta: "7. Que coisas sabemos?",
     alternativas: [
-      "Que os últimos dias começaram em 1914 e qual é o trabalho que Jeová quer que façamos (pregar as boas novas).",
-      "Que tudo será resolvido por tecnologia humana.",
-      "Que devemos depender apenas de governos humanos.",
-      "Que nada do que a Bíblia diz é confiável."
+      "Que os últimos dias começaram em 1914 e qual é o trabalho que Jeová quer que façamos.",
+      "Que o Armagedom acontecerá em um período de sete anos predeterminado.",
+      "Que a humanidade conseguirá prolongar o sistema atual por mais séculos.",
+      "Que apenas profetas modernos podem revelar os propósitos de Jeová."
     ],
-    correta: "Que os últimos dias começaram em 1914 e qual é o trabalho que Jeová quer que façamos (pregar as boas novas)."
+    correta: "Que os últimos dias começaram em 1914 e qual é o trabalho que Jeová quer que façamos."
   },
   {
     pergunta: "8. O que a expressão “o trabalho do verdadeiro Deus” quer dizer? (Eclesiastes 11:5)",
     alternativas: [
       "Refere-se ao que Jeová faz e ao que Ele permite para cumprir o seu propósito; muitas vezes não entendemos todos os motivos.",
-      "Significa exclusivamente o trabalho dos pregadores humanos.",
-      "Refere-se ao trabalho científico moderno.",
-      "Significa que tudo é aleatório e sem propósito."
+      "Refere-se apenas às tarefas administrativas dentro da congregação.",
+      "Diz respeito exclusivamente a milagres visíveis realizados no passado.",
+      "Aponta para todo trabalho religioso feito pela humanidade."
     ],
     correta: "Refere-se ao que Jeová faz e ao que Ele permite para cumprir o seu propósito; muitas vezes não entendemos todos os motivos."
   },
@@ -85,9 +85,9 @@ const artigoQuiz = [
     pergunta: "9. Por não sabermos como Jeová vai agir, o que pode acontecer?",
     alternativas: [
       "Podemos ficar indecisos e hesitar em fazer sacrifícios para servir mais a Jeová.",
-      "Seremos capazes de prever todos os milagres futuros.",
-      "Isto nos dá motivo para abandonar a fé imediatamente.",
-      "Faz com que tenhamos total controle sobre o plano de Deus."
+      "Podemos supor que Ele nunca cumprirá suas promessas e desistir da fé.",
+      "Podemos criar nossas próprias interpretações para acelerar o fim.",
+      "Podemos nos tornar presunçosos e decidir que não precisamos de sua orientação."
     ],
     correta: "Podemos ficar indecisos e hesitar em fazer sacrifícios para servir mais a Jeová."
   },
@@ -95,9 +95,9 @@ const artigoQuiz = [
     pergunta: "10. Que qualidades importantes podemos desenvolver por não saber como Jeová vai agir?",
     alternativas: [
       "Humildade, modéstia e maior confiança em Jeová.",
-      "Arrogância e desprezo pelos outros.",
-      "A crença de que a força física é tudo.",
-      "A convicção de que conhecimento humano substitui a fé."
+      "Orgulho de nossa própria sabedoria humana.",
+      "Segurança de que podemos prever cada detalhe do futuro.",
+      "Desprezo pelas instruções da congregação cristã."
     ],
     correta: "Humildade, modéstia e maior confiança em Jeová."
   },
@@ -105,9 +105,9 @@ const artigoQuiz = [
     pergunta: "11. Que coisas importantes nós sabemos?",
     alternativas: [
       "Que Jeová é amoroso, justo e sábio, e que recompensa os que são leais a ele.",
-      "Que Jeová abandona os que sofrem.",
-      "Que a riqueza material é o sinal supremo de aprovação divina.",
-      "Que não precisamos de oração nem de fé."
+      "Que Jeová abandona aqueles que não alcançam perfeição absoluta.",
+      "Que Jeová é severo demais para demonstrar amor em todas as situações.",
+      "Que a fidelidade a Ele traz apenas bênçãos materiais imediatas."
     ],
     correta: "Que Jeová é amoroso, justo e sábio, e que recompensa os que são leais a ele."
   },
@@ -115,9 +115,9 @@ const artigoQuiz = [
     pergunta: "12. O que aprendemos em Tiago 4:13, 14?",
     alternativas: [
       "Que não sabemos como será o nosso amanhã; estamos sujeitos ao tempo e ao imprevisto.",
-      "Que sempre controlamos todos os eventos do futuro.",
-      "Que planejar o futuro elimina toda incerteza.",
-      "Que o amanhã pertence somente a governantes humanos."
+      "Que podemos planejar cada detalhe da vida com certeza absoluta.",
+      "Que nossas decisões garantem total controle sobre o futuro.",
+      "Que o amanhã depende somente da força humana e do destino."
     ],
     correta: "Que não sabemos como será o nosso amanhã; estamos sujeitos ao tempo e ao imprevisto."
   },
@@ -125,9 +125,9 @@ const artigoQuiz = [
     pergunta: "13. Como as incertezas da vida podem nos afetar?",
     alternativas: [
       "Podem deixar-nos desanimados, frustrados e tirar nossa alegria.",
-      "Nos garantem total estabilidade e prazer imediato.",
-      "Nos tornam automaticamente insensíveis ao sofrimento dos outros.",
-      "Fazem com que nunca precisemos decidir nada."
+      "Podem nos levar a confiar demais em nossa própria capacidade.",
+      "Podem nos fazer negligenciar completamente a oração.",
+      "Podem criar a ilusão de que não precisamos mais servir a Jeová."
     ],
     correta: "Podem deixar-nos desanimados, frustrados e tirar nossa alegria."
   },
@@ -135,9 +135,9 @@ const artigoQuiz = [
     pergunta: "14. Do que a nossa felicidade realmente depende?",
     alternativas: [
       "Depende de ter a orientação de Jeová e obedecer a ele, não de saber tudo o que vai acontecer.",
-      "Depende de não crer em nada espiritual.",
-      "Depende apenas de acumular bens materiais.",
-      "Depende de controlar todas as pessoas ao nosso redor."
+      "Depende de alcançar prosperidade material neste sistema.",
+      "Depende de possuir conhecimento científico em abundância.",
+      "Depende de saber todas as datas proféticas com exatidão."
     ],
     correta: "Depende de ter a orientação de Jeová e obedecer a ele, não de saber tudo o que vai acontecer."
   },
@@ -145,9 +145,9 @@ const artigoQuiz = [
     pergunta: "15. O que sabemos sobre o futuro?",
     alternativas: [
       "Que Jeová prometeu vida eterna e que suas promessas se cumprirão; ele não pode mentir.",
-      "Que não há qualquer promessa divina sobre o futuro.",
-      "Que o futuro depende só da sorte humana.",
-      "Que ninguém jamais será recompensado por suas ações."
+      "Que os planos divinos dependem da vontade dos governantes humanos.",
+      "Que o futuro pode ser alterado por adivinhações e presságios.",
+      "Que somente a filosofia humana define o que virá."
     ],
     correta: "Que Jeová prometeu vida eterna e que suas promessas se cumprirão; ele não pode mentir."
   },
@@ -155,9 +155,9 @@ const artigoQuiz = [
     pergunta: "16. O que Jeová sabe sobre nós que não conseguimos entender completamente?",
     alternativas: [
       "Que Ele conhece cada detalhe sobre nós: pensamentos, motivos e sentimentos.",
-      "Que Ele ignora nossas palavras e ações.",
-      "Que desconhece o nosso coração e intenções.",
-      "Que só observa ações públicas, não pensamentos."
+      "Que Ele observa apenas nossas ações públicas, não o coração.",
+      "Que Ele só percebe os erros, nunca as boas intenções.",
+      "Que Ele avalia exclusivamente as orações feitas em público."
     ],
     correta: "Que Ele conhece cada detalhe sobre nós: pensamentos, motivos e sentimentos."
   },
@@ -165,9 +165,9 @@ const artigoQuiz = [
     pergunta: "17. Por que pode ser difícil aceitar que Jeová nos conhece tão bem?",
     alternativas: [
       "Por causa da nossa formação, cultura ou sentimento de culpa; podemos achar que Ele está muito longe.",
-      "Porque sabemos que nada nos diferencia uns dos outros.",
-      "Porque é impossível que alguém nos entenda.",
-      "Porque isso prova que ninguém nos ama."
+      "Porque é impossível que alguém saiba mais sobre nós do que nós mesmos.",
+      "Porque pensamos que Ele só se interessa por líderes religiosos.",
+      "Porque acreditamos que Ele não está atento às nossas falhas."
     ],
     correta: "Por causa da nossa formação, cultura ou sentimento de culpa; podemos achar que Ele está muito longe."
   },
@@ -175,9 +175,9 @@ const artigoQuiz = [
     pergunta: "18. Por que é bom aceitar que Jeová nos conhece melhor do que nós mesmos?",
     alternativas: [
       "Porque Ele vê nosso potencial, nos ama e nos dá força para servir fielmente.",
-      "Porque isso nos torna passivos e sem responsabilidade.",
-      "Porque nos impede de melhorar como pessoas.",
-      "Porque significa que não precisamos orar."
+      "Porque isso elimina a responsabilidade pessoal de tomar decisões.",
+      "Porque significa que nunca cometeremos erros no serviço a Ele.",
+      "Porque nos torna independentes das Escrituras e da congregação."
     ],
     correta: "Porque Ele vê nosso potencial, nos ama e nos dá força para servir fielmente."
   },
@@ -185,9 +185,9 @@ const artigoQuiz = [
     pergunta: "19. O que sabemos sobre Jeová?",
     alternativas: [
       "Que Jeová é amor e que tudo quanto Ele pede é por amor; Ele quer que tenhamos vida eterna.",
-      "Que Jeová não se importa com as pessoas.",
-      "Que Jeová prefere que ninguém seja fiel.",
-      "Que Jeová deixou de se envolver nos assuntos humanos."
+      "Que Jeová exige sacrifícios humanos como prova de lealdade.",
+      "Que Jeová se alegra apenas quando castigamos os inimigos.",
+      "Que Jeová não se importa com as escolhas individuais."
     ],
     correta: "Que Jeová é amor e que tudo quanto Ele pede é por amor; Ele quer que tenhamos vida eterna."
   },
@@ -195,9 +195,9 @@ const artigoQuiz = [
     pergunta: "20. Por que não precisamos ficar preocupados demais com o que não sabemos?",
     alternativas: [
       "Porque Jeová nos diz o que realmente precisamos saber e podemos confiar nele.",
-      "Porque não precisamos nos esforçar para aprender nada.",
-      "Porque a preocupação garante respostas imediatas.",
-      "Porque o mundo humano sempre resolverá tudo por nós."
+      "Porque podemos ignorar totalmente as Escrituras.",
+      "Porque o tempo e o acaso sempre resolvem tudo.",
+      "Porque o conhecimento humano é suficiente para substituir a fé."
     ],
     correta: "Porque Jeová nos diz o que realmente precisamos saber e podemos confiar nele."
   },
@@ -205,9 +205,9 @@ const artigoQuiz = [
     pergunta: "21. Quando o fim vai chegar?",
     alternativas: [
       "Não sabemos a data exata; Jeová conhece o cronograma e não nos revela a hora.",
-      "Sabemos exatamente: será daqui a 10 anos.",
-      "Alguém na Terra possui a data secreta e compartilhará em breve.",
-      "O fim depende exclusivamente de decisões humanas."
+      "Será em breve, conforme cálculos matemáticos escondidos na Bíblia.",
+      "Depende da vontade dos líderes religiosos atuais.",
+      "Já aconteceu secretamente no passado e ninguém percebeu."
     ],
     correta: "Não sabemos a data exata; Jeová conhece o cronograma e não nos revela a hora."
   },
@@ -215,9 +215,9 @@ const artigoQuiz = [
     pergunta: "22. O que vai acontecer amanhã?",
     alternativas: [
       "Não sabemos plenamente o que acontecerá amanhã; devemos confiar em Jeová e cumprir o que Ele nos pede hoje.",
-      "Sabemos com certeza tudo que amanhã trará.",
-      "Apenas a previsão científica determina o que acontece amanhã.",
-      "O que acontecerá amanhã depende só de nossas riquezas."
+      "Sempre acontecerá exatamente o que planejamos com antecedência.",
+      "Amanhã será revelado todo o propósito divino em detalhes.",
+      "Jeová garante que amanhã todos os problemas desaparecerão."
     ],
     correta: "Não sabemos plenamente o que acontecerá amanhã; devemos confiar em Jeová e cumprir o que Ele nos pede hoje."
   },
@@ -225,9 +225,9 @@ const artigoQuiz = [
     pergunta: "23. O quanto Jeová nos conhece?",
     alternativas: [
       "Jeová nos conhece perfeitamente: conhece nossos pensamentos, motivos e sentimentos.",
-      "Jeová conhece apenas nossas ações públicas.",
-      "Jeová não tem conhecimento real sobre as pessoas.",
-      "Jeová só observa os líderes religiosos."
+      "Jeová só observa nossas palavras públicas, não o coração.",
+      "Jeová apenas registra os pecados mais graves.",
+      "Jeová conhece a humanidade em geral, mas não cada pessoa individualmente."
     ],
     correta: "Jeová nos conhece perfeitamente: conhece nossos pensamentos, motivos e sentimentos."
   }
